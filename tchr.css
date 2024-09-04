@@ -1,0 +1,32 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/back_pic/05/13/97/4659a39072821ad.jpg);
+    background-size: cover;
+
+}
+.text{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+
+}
+h2{
+    height: -50vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p1{
+    color: rgb(212, 175, 55);
+}
+
